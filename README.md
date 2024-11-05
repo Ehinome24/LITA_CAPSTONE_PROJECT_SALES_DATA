@@ -40,4 +40,13 @@ select * from [dbo].[Sales Data]
 AVERAGEIF(Table1[Product],C12,Table1[Revenue])
 
 SUMIF(Table1[Region],D8,Table1[Revenue])
+```
+
+### Data Visualisation
+
+![sales data](https://github.com/user-attachments/assets/9834439b-8db5-4840-aa06-0a4b33e70fb2)
+
+![Sales data pivot](https://github.com/user-attachments/assets/14e2a391-f865-4290-9cbe-0fcf939d98f3)
+
+![top 5 cust  by total purchase amt](https://github.com/user-attachments/assets/eebc0a64-69a3-400a-af98-d30e90622935)
 
