@@ -1,6 +1,20 @@
 # LITA_CAPSTONE_PROJECT_SALES_DATA
 This is my capstone project on sales data while learning Data Analysis with the Incubator Hub
 ## Project Title: Sales Data Analysis
+
+[Project Overview](#project_overview)
+
+[Tools Used](#tools_used)
+
+[Data Cleaning and Preparation](#data_cleaning_and_preparation)
+
+[Exploratory Data Analysis](#exploratory_data_analysis)
+
+[Data Analysis](#data_analysis)
+
+[Data Visualisation](#data_visualisation)
+
+
 ### Project Overview
 ---
 This Data Analysis project aims to uncover key insights on the sales performance of the retail store over a period of 20 months(1 year and 8 months). By analysing the various parameters in the provided data, we will be able to make reasonable and informed decisions which will enable us tell compelling stories around our data from the insight gotten and to know the performance of the retail store.
