@@ -1,6 +1,6 @@
 # LITA_CAPSTONE_PROJECT_SALES_DATA
 This is my capstone project on sales data while learning Data Analysis with the Incubator Hub
-## Project Title: Sales Data Analysis
+## Project Title: Sales Performance Analysis for a Retail Store 
 
 [Project Overview](#project-overview)
 
