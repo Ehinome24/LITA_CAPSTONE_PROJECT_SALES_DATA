@@ -2,17 +2,17 @@
 This is my capstone project on sales data while learning Data Analysis with the Incubator Hub
 ## Project Title: Sales Data Analysis
 
-[Project Overview](#project_overview)
+[Project Overview](#project-overview)
 
-[Tools Used](#tools_used)
+[Tools Used](#tools-used)
 
-[Data Cleaning and Preparation](#data_cleaning_and_preparation)
+[Data Cleaning and Preparation](#data-cleaning-and-preparation)
 
-[Exploratory Data Analysis](#exploratory_data_analysis)
+[Exploratory Data Analysis](#exploratory-data-analysis)
 
-[Data Analysis](#data_analysis)
+[Data Analysis](#data-analysis)
 
-[Data Visualisation](#data_visualisation)
+[Data Visualisation](#data-visualization)
 
 
 ### Project Overview
@@ -56,7 +56,7 @@ AVERAGEIF(Table1[Product],C12,Table1[Revenue])
 SUMIF(Table1[Region],D8,Table1[Revenue])
 ```
 
-### Data Visualisation
+### Data Visualization
 
 ![sales data](https://github.com/user-attachments/assets/9834439b-8db5-4840-aa06-0a4b33e70fb2)
 
