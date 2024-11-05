@@ -7,4 +7,8 @@ This Data Analysis project aims to uncover key insights on the sales performance
 ### Data Sources
 The primary source of data used here
 
-### 
+### Tools Used
+- Microsoft excel for data cleaning, analysis and data visualization
+- SQL- Structured Query Language for Data Query
+- PowerBI for Data cleaning and data visualization
+- Github for Portfolio Building
