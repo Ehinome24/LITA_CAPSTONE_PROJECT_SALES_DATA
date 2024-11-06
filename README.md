@@ -14,6 +14,9 @@ This is my capstone project on sales data while learning Data Analysis with the 
 
 [Data Visualisation](#data-visualization)
 
+[Analysis Results](#analysis-results)
+
+[Recommendations](#recommendations)
 
 ### Project Overview
 ---
@@ -28,7 +31,7 @@ This Data Analysis project aims to uncover key insights on the sales performance
 
 ### Data Cleaning and Preparation
 ---
-In the initialphase of data cleaning and preparations, we performed the following actions;
+In the initialphase of data cleaning and preparations, I performed the following actions;
 - Data Loading and Inspection
 - Handling Missing Variables
 - Handling duplicates
@@ -36,7 +39,7 @@ In the initialphase of data cleaning and preparations, we performed the followin
 
 ### Exploratory Data Analysis
 ---
-This step involved the exploration of our dataset to answer some questions such as;
+This step involved the exploration of the dataset to answer some questions such as;
 - Top selling Products
 - Regional Performance
 - Monthly Sales Trends
@@ -57,6 +60,7 @@ SUMIF(Table1[Region],D8,Table1[Revenue])
 ```
 
 ### Data Visualization
+---
 
 ![sales data](https://github.com/user-attachments/assets/9834439b-8db5-4840-aa06-0a4b33e70fb2)
 
@@ -66,9 +70,18 @@ SUMIF(Table1[Region],D8,Table1[Revenue])
 
 ![Sales data Visual](https://github.com/user-attachments/assets/963f7ae6-764a-42eb-9e3f-4692b31d1cd8)
 
-### Analysis Results
+### Analysis Results 
 ---
-From the analysis of the data provided, we were able to 
+The results of the analysis are summarized as follows;
+1. The highest revenue was generated in the south with over 40% of the total revenue generated there.
+2. Shoes were the highest selling product generating the highest revenue
+3. February 2024 recorded the highest sales value and april 2023 had the lowest sales value
+
+### Recommendations 
+---
+- Since there is a higher increase in sales in February (both 2023 and 2024), promotions should be done during that period to maximize sales
+- In areas with low sales values, advertisements should be carried out with discounts given when and where necessary
+- More focus should be placed in the Southern region and sales strategies should be improved in other regions.
 
 
 
