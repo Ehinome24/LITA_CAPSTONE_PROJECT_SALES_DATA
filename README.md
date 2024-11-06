@@ -64,3 +64,33 @@ SUMIF(Table1[Region],D8,Table1[Revenue])
 
 ![top 5 cust  by total purchase amt](https://github.com/user-attachments/assets/eebc0a64-69a3-400a-af98-d30e90622935)
 
+![Sales data Visual](https://github.com/user-attachments/assets/963f7ae6-764a-42eb-9e3f-4692b31d1cd8)
+
+### Analysis Results
+---
+From the analysis of the data provided, we were able to 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
