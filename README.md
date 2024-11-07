@@ -68,13 +68,14 @@ SUMIF(Table1[Region],D8,Table1[Revenue])
 
 ![top 5 cust  by total purchase amt](https://github.com/user-attachments/assets/eebc0a64-69a3-400a-af98-d30e90622935)
 
-![Sales data Visual](https://github.com/user-attachments/assets/963f7ae6-764a-42eb-9e3f-4692b31d1cd8)
+![Sales data Visual](https://github.com/user-attachments/assets/b325070a-1d34-41b9-b008-bb7d51ab0f75)
+
 
 ### Analysis Results 
 ---
 The results of the analysis are summarized as follows;
 1. The highest revenue was generated in the south with over 40% of the total revenue generated there.
-2. Shoes were the highest selling product generating the highest revenue
+2. Shoes generated the highest revenue although hats had the highest number of sales
 3. February 2024 recorded the highest sales value and april 2023 had the lowest sales value
 
 ### Recommendations 
